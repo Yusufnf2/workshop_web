@@ -1,6 +1,30 @@
-.container {
-    width: 90%;
-    padding: 0;
+body {
     margin: auto;
-    background-color: ;
+    padding: 0;
 }
+.clx {
+    clear: both;
+}
+.header {
+    padding: 20px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+}
+.form {
+    padding: 20px;
+}
+.form .form-gr {
+    margin: 10px 0 10px 0;
+}
+.form .form-gr label {
+    float: left;
+    padding: 5px;
+    width: 70px;
+}
+.form .form-gr input {
+    padding: 5px;
+}
+.form .submit {
+    padding: 5px;
+}
+
